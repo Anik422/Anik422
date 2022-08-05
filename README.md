@@ -1,6 +1,6 @@
 <h3 align="center">
   
-  ![header]([https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png](https://code.ankitpathshala.com/registration/))
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <h1 align="center">Hi 👋, I'm Anik Saha</h1>
 <h3 align="center">A passionate Python (Djnago) developer from Bangladesh</h3>
