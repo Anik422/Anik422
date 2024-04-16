@@ -18,6 +18,11 @@
 
 - ⚡ Fun fact **I am Funny.**
 
+<h3 align="left">Problem Solving:</h3>
+<a href="https://www.hackerrank.com/aniks422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniks422" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/anik422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anik422" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aniks422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniks422" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anik___saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anik___saha" height="30" width="40" /></a>
@@ -25,9 +30,6 @@
 <a href="https://stackoverflow.com/users/19297087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19297087" height="30" width="40" /></a>
 <a href="https://fb.com/anik422s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik422s" height="30" width="40" /></a>
 <a href="https://instagram.com/anmoy_saha_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmoy_saha_anik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniks422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniks422" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anik422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anik422" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniks422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniks422" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
