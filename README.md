@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/anik___saha" target="blank"><img src="https://img.shields.io/twitter/follow/anik___saha?logo=twitter&style=for-the-badge" alt="anik___saha" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScripet, React**
+- 🌱 I’m currently learning **Machine Learning
 
 - 💬 Ask me about **Python, Django, JavaScript**
 
