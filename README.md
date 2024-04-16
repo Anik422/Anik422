@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Problem Solving:</h3>
-<p><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Anik422" alt="anik422" /></p>
+<a href="https://codeforces.com/profile/Anik422" target="blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Anik422" alt="anik422" /></a>
 <a href="https://www.hackerrank.com/aniks422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniks422" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniks422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniks422" height="30" width="40" /></a>
 </p>
