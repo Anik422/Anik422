@@ -46,7 +46,7 @@
           <img src="https://img.shields.io/badge/DevotrixInc-black?style=flat-square&logo=windows" height="25"/>
         </td>
         <td align="center"><b>Jr. Software Engineer</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/Part--Time-orange?style=flat-square"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/Part--Time-black?style=flat-square"/></td>
         <td align="center">Jun 2024 - Present</td>
         <td>
           • <b>AI Data Collection (NuComply):</b> Engineered scrapers for <b>500+ websites</b>.<br>
@@ -59,7 +59,7 @@
           <img src="https://img.shields.io/badge/Trademajestic_Ltd-blue?style=flat-square&logo=windows" height="25"/>
         </td>
         <td align="center"><b>Jr. Software Engineer</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/Full--Time-green?style=flat-square"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/Full--Time-black?style=flat-square"/></td>
         <td align="center">Jun 2022 - Present</td>
         <td>
           • Built <b>Road Light Management System</b>.<br>
